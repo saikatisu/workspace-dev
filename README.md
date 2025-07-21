@@ -10,8 +10,8 @@
 1. このリポジトリをローカルにクローン：
 
    ```bash
-   git clone <リポジトリURL>
-   cd workspace
+   git clone https://github.com/saikatisu/workspace-dev.git
+   cd workspace-dev
    ```
 
 2. Python 3 が動作する環境があればすぐに利用可能（追加ライブラリ不要）
@@ -50,7 +50,7 @@
 ## 📂 ディレクトリ構成
 
 ```
-workspace/
+workspace-dev/
 ├─ dashboard/
 │  └─ タスクダッシュボード.md   ← 全体のタスク・WBS・スケジュールを集約
 ├─ task/
