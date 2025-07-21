@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+*.pyc
+*.log
+.env
+*.xlsx
+assets/
+output/
